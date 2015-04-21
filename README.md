@@ -1,4 +1,4 @@
-''''No longer maintained - use https://github.com/bazwilliams/node-ssdp/''''
+No longer maintained - use https://github.com/bazwilliams/node-ssdp/
 
 node-upnp-client
 ================
