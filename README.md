@@ -1,3 +1,5 @@
+''''No longer maintained - use https://github.com/bazwilliams/node-ssdp/''''
+
 node-upnp-client
 ================
 ### [UPnP][] "Control Point" Library for [NodeJS][].
